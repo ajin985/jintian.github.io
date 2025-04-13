@@ -4,7 +4,7 @@ vCard - Personal Portfolio
 
 alt = Richard hanrick
 Richard hanrick
-Web developer
+Ph.D Candidate
 
 Show Contacts
 
